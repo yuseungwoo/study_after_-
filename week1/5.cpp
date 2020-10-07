@@ -1,3 +1,4 @@
+//https://rebas.kr/761
 #include <iostream>
 using namespace std;
 int n, ans = 0;
